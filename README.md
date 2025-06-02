@@ -1,9 +1,11 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sunnyday Selections</title>
+  <title>Sun![Screenshot 2025-06-01 225254](https://github.com/user-attachments/assets/497e3b66-1aa8-4eec-9322-4626865cb891)
+nyday Selections</title>
   <link rel="icon" type="image/png" href="https://img.icons8.com/emoji/48/sun-emoji.png">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
