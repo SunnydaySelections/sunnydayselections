@@ -1,5 +1,3 @@
-## Hi there![Screenshot 2025-06-01 225254](https://github.com/user-attachments/assets/23b4c370-8128-4b12-93d2-5517fbbeec7c)
- 👋
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -126,7 +124,7 @@
   </header>
 
   <section>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Vending_machine_in_Japan_001.jpg" alt="Sunnyday vending machine" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 20px auto; display: block;" />
+    <img src="c:\Users\emmac\OneDrive\Pictures\Screenshots\Screenshot 2025-06-01 225254.png" alt="Sunnyday vending machine" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 20px auto; display: block;" />
   </section>
 
   <section class="features">
@@ -218,5 +216,5 @@
     });
   </script>
 </body>
-</html>![Screenshot 2025-06-01 225254](https://github.com/user-attachments/assets/c9a91bf3-415f-4fcd-8e47-62d39cf4a584)
-![Screenshot 2025-06-01 225254](https://github.com/user-attachments/assets/e0032209-a289-4dc0-a3b4-5456312a1539)
+</html>
+![Screenshot 2025-06-01 225254](https://github.com/user-attachments/assets/39093262-91c6-4e0a-8b93-7f085de72542)
